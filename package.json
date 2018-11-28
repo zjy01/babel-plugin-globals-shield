@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-globals-shield",
+  "version": "0.0.1",
+  "description": "babel plugin for shield globals variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "author": "carvenzhang <carvenzhang@qq.com>",
+  "license": "ISC"
+}
